@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/fenrir2608/goGreen/issues"
   },
-  "homepage": "https://github.com/fenrir2608/goGreen#readme"
+  "homepage": "https://github.com/fenrir2608/goGreen#readme",
+  "devDependencies": {}
 }
